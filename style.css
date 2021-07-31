@@ -1,0 +1,24 @@
+body{
+    background:skyblue;
+    text-align:center;  background:url(./dice\ 5.jpg);
+    background-size: cover;
+  }
+  label,button,input{
+    font-size:2em;
+    text-align:center;
+  }
+  input{
+    width:100px;
+  }
+  button:hover{
+    box-shadow:0 0 20px 0 black;
+  }
+  div{
+    font-size:2em;
+    text-shadow: 0 0 3px white;
+  }
+  button{
+    width:300px;
+    
+  }
+  
