@@ -1,7 +1,7 @@
 body{
     background:skyblue;
     text-align:center;  
-    background:url(./die.jpg);
+    background:url("./die.jpg");
     background-size: cover;
   }
   label,button,input{
